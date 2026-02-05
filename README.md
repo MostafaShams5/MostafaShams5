@@ -1,6 +1,6 @@
 # Mostafa Shams
 
-AI & Data Science
+AI/ML Engineer & Researcher | Data Science
 
 ### The Builds
 
